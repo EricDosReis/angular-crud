@@ -1,0 +1,13 @@
+.mat-sidenav {
+  width: 240px;
+}
+
+.mat-list-item i {
+  margin-right: 1rem;
+}
+
+.mat-sidenav-content {
+  background-color: #fff;
+  color: #424242;
+  padding: 1rem;
+}

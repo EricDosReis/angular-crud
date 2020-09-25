@@ -1,19 +1,60 @@
 {
-  "products": [
+  "orders": [
     {
       "id": 1,
-      "name": "Xiaomi A2 Lite",
-      "price": 899.99
+      "date": "2018/09/27",
+      "customer": {
+        "name": "Edson",
+        "lastName": "Soares",
+        "documentNumber": "123456789"
+      },
+      "product": {
+        "name": "Xiaomi A2 Lite",
+        "price": 899.99
+      }
     },
     {
       "id": 2,
-      "name": "Macbook Pro 2020",
-      "price": 12000.0
+      "date": "2019/05/15",
+      "customer": {
+        "name": "Eliza",
+        "lastName": "Augustin",
+        "documentNumber": "987654321"
+      },
+      "product": {
+        "name": "Macbook Pro 2020",
+        "price": 12000.0
+      }
     },
     {
       "id": 3,
+      "date": "2020/02/09",
+      "customer": {
+        "name": "Franklin",
+        "lastName": "Caldera",
+        "documentNumber": "432198765"
+      },
+      "product": {
+        "name": "Samsung S20+",
+        "price": 4999.99
+      }
+    }
+  ],
+  "products": [
+    {
+      "name": "Xiaomi A2 Lite",
+      "price": 899.99,
+      "year": "2018"
+    },
+    {
+      "name": "Macbook Pro 2020",
+      "price": 12000.0,
+      "year": "2020"
+    },
+    {
       "name": "Samsung S20+",
-      "price": 4999.99
+      "price": 4999.99,
+      "year": "2020"
     }
   ]
 }
