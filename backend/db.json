@@ -45,18 +45,12 @@
       "id": 1,
       "name": "Xiaomi A2 Lite",
       "price": 899.99,
-      "year": "2018"
+      "year": 2019
     },
     {
       "id": 2,
       "name": "Macbook Pro 2020",
       "price": 12000,
-      "year": "2020"
-    },
-    {
-      "id": 3,
-      "name": "Samsung S20+",
-      "price": 4999.99,
       "year": "2020"
     }
   ]
